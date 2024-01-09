@@ -1198,3 +1198,30 @@ textarea.input-field {
 
 }
 
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+  background-color: #0088ff;
+  color: white;
+}
+
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus {
+  background-color: #feb733;
+  color: white;
+}
+
+.ui-datepicker-header {
+  background-color: #ffa500;
+  color: white;
+}
+
+.ui-datepicker-prev,
+.ui-datepicker-next {
+  background-color: #ffa500;
+  color: white;
+}
